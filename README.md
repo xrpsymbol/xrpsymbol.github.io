@@ -1,6 +1,6 @@
 ## XRP Symbol
 
-In order for XRP to be perceived as a currency, it needs its own symbol. This repository intends to allow collaboration to create the ubiquitious XRP Ledger symbol that we can use to display the amount of XRP.
+In order for XRP to be perceived as a currency, it needs its own symbol. This repository intends to allow collaboration to create the ubiquitious XRP units symbol that we can use to display the amount of XRP.
 
 Please open a pull request or submit tickets with suggestions.
 
