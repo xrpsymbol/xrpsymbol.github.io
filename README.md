@@ -8,4 +8,4 @@ Please open a pull request or submit issues with suggestions.
 
 This symbol contains the letters X, R and P hidden within it, and it also displays the shape of a "drop" or "droplet". A drop is the smallest XRP denomination (1 XRP = 1,000,000). This droplet was positioned in equilibrium perpendicular to the "top left to bottom right" line on the X.
 
- ![xrp-drop-symbol-jpeg.jpg]
+ ![XRP Ledger Symbol Suggestion](xrp-drop-symbol-jpeg.jpg)
