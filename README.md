@@ -12,4 +12,4 @@ The following symbol contains the letters X, R and P hidden within the shape. Th
 
 ### Use Case Example
 
-<img align="center" width="70" src="images/xrp-currency-usecase-example.jpg">
+<img align="center" width="70" src="images/xrp-currency-example.jpg">
