@@ -20,7 +20,7 @@ Once we agree on a symbol, we need to create a glyph that will need to be submit
 
 ### Contributions
 
-If you have any suggestion for edits, or a completely new idea for a different symbol, feel free to clone this repository and submit a pull request (please use a unique branch name). New suggestions and ideas will be added to a separate section on this page.
+If you have any suggestion for edits, or a completely new idea for a different symbol, feel free to clone this [repository](https://github.com/xrpsymbol/xrpsymbol.github.io) and submit a pull request (please use a unique branch name). New suggestions and ideas will be added to a separate section on this page.
 
 For those not as tech savvy, send your idea to [suggestion@xrpsymbol.com](mailto:suggestion@xrpsymbol.com)
 *Please use "New XRP Symbol Suggestion" in the subject line.*
