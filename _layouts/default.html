@@ -10,6 +10,14 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <style>
+      .tweet-page {
+        padding: 20px 0;
+        width: 100%;
+        display: block;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -30,6 +38,12 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View the Project on GitHub</a></p>
         {% endif %}
 
+        <div class="tweet-page">
+          <a class="twitter-share-button" target="_blank"
+            href="https://twitter.com/intent/tweet?text=XRP%20needs%20a%20symbol!%20Check%20it%20out%20at:%20https://xrpsymbol.github.io"
+            data-size="large">
+          Tweet this page!</a>
+        </div>
       </header>
       <section>
 
@@ -44,7 +58,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  
+
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116202170-2"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
