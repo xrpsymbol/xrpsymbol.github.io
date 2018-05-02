@@ -13,3 +13,7 @@ The following symbol contains the letters X, R and P hidden within the shape. Th
 ### Use Case Example
 
 <img align="center" width="70" src="images/xrp-currency-example.jpg">
+
+### What's next?
+
+Once we agree on a symbol, we need to create a glyph that will need to be submitted to the [Unicode Consortium](https://unicode.org) for consideration. In order to be considered, we will need to get support from the community and a sponsor that can submit the [application](https://unicode.org/L2/L2014/14232-n4502-form.pdf) for the successful implemetation of this character into the Unicode encoding standard.
