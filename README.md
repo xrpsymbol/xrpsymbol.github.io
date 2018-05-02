@@ -26,7 +26,7 @@ Ripple XRP already uses an existing unofficial ISO 4217 code, *XRP*. While using
 > 6. Storage: XRP can be stored in a universal distributed blockchain network of computers and digital wallets.
 > 7. Fungible: All XRP's are considered equal and valued equally.
 
-Note: As people accept XRP in exchange for goods and services, and considering the aformentioned characteristics, the need for a universally recognizable symbol is necessary for representing the units of XRP.
+Note: As people accept XRP in exchange for goods and services, and considering the aformentioned characteristics, the need for a universally recognizable symbol for representing the units of XRP is apparent.
 
 ### What's next?
 
