@@ -42,4 +42,4 @@ For those not as tech savvy, send your idea to [suggestion@xrpsymbol.com](mailto
 
 > _DISCLAIMER_
 > _xrpsymbol.github.io has no affiliation with Ripple (ripple.com), and mentions of XRP and Ripple does not constitute endorsement by Ripple Labs, Inc._
-> _XRP and Ripple are registered trademarks of Ripple Labs, Inc. in the United States and other countries.>
+> _XRP and Ripple are registered trademarks of Ripple Labs, Inc. in the United States and other countries._
