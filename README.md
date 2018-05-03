@@ -39,5 +39,7 @@ If you have any suggestion for edits, or a completely new idea for a different s
 For those not as tech savvy, send your idea to [suggestion@xrpsymbol.com](mailto:suggestion@xrpsymbol.com)
 *Please use "New XRP Symbol Suggestion" in the subject line.*
 
-> xrpsymbol.github.io has no affiliation with Ripple (ripple.com), and mentions of XRP and Ripple does not constitute endorsement by Ripple Labs, Inc.
-> XRP and Ripple are registered trademarks of Ripple Labs, Inc. in the United States and other countries. 
+
+> _DISCLAIMER_
+> _xrpsymbol.github.io has no affiliation with Ripple (ripple.com), and mentions of XRP and Ripple does not constitute endorsement by Ripple Labs, Inc._
+> _XRP and Ripple are registered trademarks of Ripple Labs, Inc. in the United States and other countries.>
