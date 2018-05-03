@@ -28,6 +28,10 @@ Ripple XRP already uses an existing unofficial ISO 4217 code, *XRP*. While using
 
 Note: As people accept XRP in exchange for goods and services, and considering the aformentioned characteristics, the need for a universally recognizable symbol for representing the units of XRP is apparent.
 
+### Handwriting Example (Video)
+
+[XRP Symbol Handwriting Example](https://www.youtube.com/embed/0JclsqxdRpA)
+
 ### What's next?
 
 Once we agree on a symbol, we need to create a glyph that will need to be submitted to the [Unicode Consortium](https://unicode.org) for consideration. In order to be considered, we will need to get support from the community and a sponsor that can submit the [application](https://unicode.org/L2/L2014/14232-n4502-form.pdf) for the successful implemetation of this character into the Unicode encoding standard.
