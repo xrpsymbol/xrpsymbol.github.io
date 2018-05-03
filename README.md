@@ -30,7 +30,7 @@ Note: As people accept XRP in exchange for goods and services, and considering t
 
 ### Handwriting Example (Video)
 
-[XRP Symbol Handwriting Example](https://www.youtube.com/embed/0JclsqxdRpA?rel=0&amp;showinfo=0)
+[XRP Symbol Handwriting Example](https://www.youtube.com/embed/0JclsqxdRpA?rel=0&amp;showinfo=0&autoplay=true)
 
 ### What's next?
 
