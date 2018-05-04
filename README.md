@@ -16,7 +16,7 @@ The following symbol contains the letters X, R and P hidden within the shape. Th
 
 ### Why a symbol?
 
-Ripple XRP already uses an existing unofficial ISO 4217 code, *XRP*. While using *XRP* as a prefix to an amount is possible, currencies like the U.S. Dollar use both the 3 character ISO code and a symbol, USD and $ respectively. In terms of cryptocurrencies, Bitcoin was recently given a new symbol in the Unicode encoding standard (₿). XRP is no different, as XRP meets the definition of a currency in some cases.
+Ripple XRP already uses an existing unofficial ISO 4217 code, *XRP*. While using *XRP* as a prefix to an amount is possible, currencies like the U.S. Dollar use both the 3 character ISO code and a symbol, USD and $ respectively. In terms of cryptocurrencies, Bitcoin was recently given a new symbol in the Unicode Standard (₿). XRP is no different, as XRP meets the definition of a currency in some cases.
 
 #### What are the characteristics of a "currency"?
 > 1. Scarce: There will ever be a maximum of 100 Billion XRP created.
