@@ -6,7 +6,7 @@ Please open a pull request or submit tickets with suggestions.
 
 ### Suggested Symbol
 
-The following symbol contains the letters X, R and P hidden within the shape. The symbol also displays the shape of a "drop" or "droplet". A drop is the smallest XRP denomination (1 XRP = 1,000,000 drops). The droplet was positioned in equilibrium, perpendicular to the "top left to bottom right" line on the "X". If the logo is rotated _120°_, the "drop" hangs in perfect equilibrium. An interesting fact about this is that _120_ is an [untouchable number](https://en.wikipedia.org/wiki/Untouchable_number), and the first multiply perfect number of order 3 (a [triperfect](https://en.wikipedia.org/wiki/Multiply_perfect_number#Triperfect_numbers) number).
+The following symbol contains the letters X, R and P hidden within the shape. The symbol also displays the shape of a "drop" or "droplet". A drop is the smallest XRP denomination (1 XRP = 1,000,000 drops). The droplet was positioned in equilibrium, perpendicular to the "top left to bottom right" line on the "X". If the logo is rotated _120°_, the "drop" hangs in perfect equilibrium. An interesting fact about this is that _120_ is an [untouchable number](https://en.wikipedia.org/wiki/Untouchable_number), and the first multiply perfect number of order 3 (a [triperfect](https://en.wikipedia.org/wiki/Multiply_perfect_number#Triperfect_numbers) number). The sum of its factors (including 1 and itself) sum to 360; exactly 3 x 120.
 
  ![XRP Ledger Symbol Suggestion](images/xrp-symbol-jpeg.jpg)
 
