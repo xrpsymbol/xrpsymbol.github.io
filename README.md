@@ -22,13 +22,13 @@ Ripple XRP already uses an existing unofficial ISO 4217 code, *XRP*. While using
 > 1. Scarce: There will ever be a maximum of 100 Billion XRP created.
 > 2. Durable: XRP is digital, thus it does not degrade with use.
 > 3. Portable: XRP can be stored and moved in digital storage, eg: flash drives¹, mobile phone wallets¹.
-> 5. Authenticity Verification: XRP can be traced using immutable blockchain technology and transactions are recorded in [consensus](https://ripple.com/build/xrp-ledger-consensus-process/#the-xrp-ledger-protocol-consensus-and-validation).
-> 6. Storage: XRP can be stored in a universal distributed network of computers (blockchain network) and digital wallets¹.
+> 5. Authenticity Verification: XRP can be traced using the XRP Ledger and transactions are recorded in [consensus](https://ripple.com/build/xrp-ledger-consensus-process/#the-xrp-ledger-protocol-consensus-and-validation).
+> 6. Storage: XRP can be stored in a universal distributed network of computers (distributed ledger) and digital wallets¹.
 > 7. Fungible: All XRP's are considered equal and valued equally.
 
 Note: As people accept XRP in exchange for goods and services, and considering the aformentioned characteristics, the need for a universally recognizable symbol for representing the units of XRP is apparent.
 
-> ¹Digital wallets and storage mediums refer to storing a seed (secret key) in a device that cryptographically references a public address in the distributed ledger (blockchain network). These wallets synchronize with the ledger to determine transactions, balances, etc.
+> ¹Digital wallets and storage mediums refer to storing a seed (secret key) in a device that cryptographically references a public address in the distributed ledger. These wallets synchronize with the ledger to determine transactions, balances, etc.
 
 ### Handwriting Example (Video)
 
