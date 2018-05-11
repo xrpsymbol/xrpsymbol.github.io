@@ -7,7 +7,7 @@ In order for XRP to be perceived as a "currency", it needs its own symbol. Just 
 Please open a pull request or submit tickets with suggestions.
 
 ### The XRP Symbol Proposal 
-` Submitted by Claire Arthurs - Head of Community at Ripple`
+` Submitted by Claire Arthurs Kart - Head of Community at Ripple`
 
 ![XRP Symbol Suggestion_Ripple](xrp-symbol/overview.png)
 
