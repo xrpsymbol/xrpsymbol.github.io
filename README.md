@@ -11,6 +11,10 @@ Please open a pull request or submit tickets with suggestions.
 
 ![XRP Symbol Suggestion_Ripple](xrp-symbol/overview.png)
 
+### Use Case
+
+<img align="center" width="277" src="images/XRP-Currency-Symbol-Use-Case.png">
+
 [Download Files](https://github.com/xrpsymbol/xrpsymbol.github.io/tree/master/xrp-symbol)
 
 ### Other Suggestions
