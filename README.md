@@ -1,13 +1,19 @@
 ## XRP Symbol
 
+[Follow us on Twitter!](https://www.twitter.com/xrpsymbol)
+
 In order for XRP to be perceived as a "currency", it needs its own symbol. Just like the dollar sign "$", XRP needs a universal sign that denotes units of XRP. The current logo being used works great when referencing "Ripple" the company, and it **should not be changed**, but a _character_ should be created to represent actual units of the digital asset. Bitcoin for instance, uses the ₿ symbol within an orange circle in an angle, and additional symbols have been suggested for the actual units, eg: ₿, Ƀ or ฿. This repository intends to allow collaboration to create the ubiquitous XRP units symbol that we can use to display the amount of XRP.
 
 Please open a pull request or submit tickets with suggestions.
 
 ### The XRP Symbol Proposal 
-` Submitted by Claire Arthurs - Head of Community at Ripple`
+` Submitted by Claire Arthurs Kart - Head of Community at Ripple`
 
 ![XRP Symbol Suggestion_Ripple](xrp-symbol/overview.png)
+
+### Use Case
+
+<img align="center" width="277" src="images/XRP-Currency-Symbol-Use-Case.png">
 
 [Download Files](https://github.com/xrpsymbol/xrpsymbol.github.io/tree/master/xrp-symbol)
 
